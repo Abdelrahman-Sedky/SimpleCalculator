@@ -11,7 +11,7 @@
 9-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:6:5-27:19
+11-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:6:5-26:19
 12        android:allowBackup="true"
 12-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -33,7 +33,7 @@
 22        android:theme="@style/Theme.SimpleCalculator" >
 22-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:14:9-54
 23        <activity
-23-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:16:9-26:20
+23-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:16:9-25:20
 24            android:name="com.bignerdranch.android.simplecalculator.MainActivity"
 24-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:17:13-41
 25            android:exported="true"
@@ -41,14 +41,14 @@
 26            android:screenOrientation="portrait" >
 26-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:19:13-49
 27            <intent-filter>
-27-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:21:13-25:29
+27-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:20:13-24:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:22:17-69
-28-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:22:25-66
+28-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:21:17-69
+28-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:21:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:24:17-77
-30-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:24:27-74
+30-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:23:17-77
+30-->G:\CSED\Courses\Route\Android\Projects\Task3\SimpleCalculator\SimpleCalculator\app\src\main\AndroidManifest.xml:23:27-74
 31            </intent-filter>
 32        </activity>
 33

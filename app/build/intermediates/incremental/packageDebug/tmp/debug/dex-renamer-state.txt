@@ -1,4 +1,4 @@
-#Thu Aug 04 20:44:38 EET 2022
+#Fri Aug 05 07:49:51 EET 2022
 base.2=G\:\\CSED\\Courses\\Route\\Android\\Projects\\Task3\\SimpleCalculator\\SimpleCalculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
 path.2=15/classes.dex
 base.1=G\:\\CSED\\Courses\\Route\\Android\\Projects\\Task3\\SimpleCalculator\\SimpleCalculator\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

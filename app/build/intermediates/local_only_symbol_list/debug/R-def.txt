@@ -9,6 +9,7 @@ color purple_200
 color teal_200
 color teal_700
 color white
+drawable ic_launcher_background
 drawable ic_launcher_foreground
 font av_heavy
 id clear_btn
